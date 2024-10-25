@@ -44,7 +44,7 @@ In case of a mild earthquake in Bangalore:
 
 ## 📲 Download RescueReady
 
-Take control when it counts! [Download RescueReady today](#) and navigate crises with the peace of mind that you are well-prepared.
+Take control when it counts! [Download RescueReady today](#https://github.com/SavitaSrivastava/rescue_ready/releases/download/APK/RescueReady.apk) and navigate crises with the peace of mind that you are well-prepared.
 
 ---
 
